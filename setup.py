@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="ImportLibrary",
+    name="Library",
     version="0.0.1",
     author="Archana Neupane Timsina",
     author_email="aneupanetims2016@fau.edu",
