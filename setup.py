@@ -11,7 +11,7 @@ setuptools.setup(
     description="Import everything used in the MPCR lab.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mpcrlab/importmpcr",
+    url="https://https://github.com/aneupanetims2016/Library",
     install_requires=[],
     packages=setuptools.find_packages(),
     classifiers=[
